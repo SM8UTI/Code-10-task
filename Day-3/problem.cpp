@@ -35,7 +35,7 @@ int main()
         int m;
         cin>>m;
         Solution ob;
-        cout<<ob.countWays(m)<<endl; // Print the output from our pre computed array
+        cout<<ob.countWays(m)<<"\n"; // Print the output from our pre computed array
     }
     return 0;
 }
